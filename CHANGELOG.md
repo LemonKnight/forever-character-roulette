@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2] – 2026-11-01
+
+### Improved
+- Added version-based cache busting for the JavaScript bundle to ensure new releases fetch updated application code.
+- Display the current application version in a subtle footer.
+
+
 ## [1.1.1] – 2026-11-01
 
 ### Added
